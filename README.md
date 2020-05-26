@@ -2,7 +2,7 @@
 Repository for School of Machines, Dataism course.
 
 # Homework
-**Week 0:**
+**Week 1:**
 * Use colab to open and work through Homework 1.ipynb
 * Go to https://policescorecard.org/
    - Explore the front page to see how the project is presented
