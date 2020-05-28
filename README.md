@@ -9,4 +9,4 @@ Repository for School of Machines, Dataism course.
    - Read the "About the Data" section
    - Write down three questions you have about the project
    - If you're curious, check out the Jupyter Notebook: https://github.com/campaignzero/ca-police-scorecard/
-* Optional: Read Chapter 5 of 'Weapons of Math Destruction.'
+* Supplementary: Read Chapter 5 of 'Weapons of Math Destruction.'
