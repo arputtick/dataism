@@ -24,8 +24,8 @@ Repository for School of Machines, Dataism course.
 **References and Resources**
 
 *Books*
-*'Weapons of Math Destruction,' Cathy O'Neil
-*'Donut Economics,' Kate Raworth
+* 'Weapons of Math Destruction,' Cathy O'Neil
+* 'Donut Economics,' Kate Raworth
 
 *Online Courses*
 * fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
