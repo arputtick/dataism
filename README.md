@@ -40,7 +40,7 @@ NOTE: I DON'T like Andrew Ng's 'Machine Learning' course on Coursera.
 **On self-teaching:**
 If you really wanna get started on deep learning I'd recommend picking one practical course (like fast.ai/tensorflow in practice) and one theory course (like deeplearning.ai) and going back and forth depending on how you feel. Then if you want can move on to hardcore stuff like CS231 and the Deep Learning book by Goodfellow et. al.
 
-The same goes for stats. For me it made such a difference to stumble through projects and learn theory side by side. Otherwise I was either bored or stuck.
+The same goes for stats. For me it makes such a difference to stumble through projects and learn theory side by side. Otherwise I get either bored or stuck.
 
 In my opinion, you need to know enough coding to understand if-statements and for-loops and a maybe a couple day primer (like the google one) on Python to get started.
 
