@@ -15,9 +15,9 @@ Repository for School of Machines, Dataism course.
 * Watch some youtube videos on matrix multiplication if you're not familiar
 * Work through Scores_Procentiles.ipynb
 * Check out these videos : 
-   *https://www.youtube.com/watch?v=ufAlSgXIPB4 - TEDx from Adam Harvey
-   *https://www.youtube.com/watch?v=ch2ubo7fC84 - News Story, Dazzle Club, London
-   *https://www.youtube.com/watch?v=ufAlSgXIPB4 - Video About Clearview AI
+   * https://www.youtube.com/watch?v=ufAlSgXIPB4 - TEDx from Adam Harvey
+   * https://www.youtube.com/watch?v=ch2ubo7fC84 - News Story, Dazzle Club, London
+   * https://www.youtube.com/watch?v=ufAlSgXIPB4 - Video About Clearview AI
    
  ---  
    
