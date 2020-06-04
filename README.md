@@ -10,3 +10,30 @@ Repository for School of Machines, Dataism course.
    - Write down three questions you have about the project
    - If you're curious, check out the Jupyter Notebook: https://github.com/campaignzero/ca-police-scorecard/
 * Supplementary: Read Chapter 5 of 'Weapons of Math Destruction.'
+
+**Week 2:**
+* Watch some youtube videos on matrix multiplication if you're not familiar
+* Work through Scores_Procentiles.ipynb
+* Check out these videos : 
+   *https://www.youtube.com/watch?v=ufAlSgXIPB4 - TEDx from Adam Harvey
+   *https://www.youtube.com/watch?v=ch2ubo7fC84 - News Story, Dazzle Club, London
+   *https://www.youtube.com/watch?v=ufAlSgXIPB4 - Video About Clearview AI
+   
+   
+   
+**References and Resources**
+*Books*
+*'Weapons of Math Destruction,' Cathy O'Neil
+*'Donut Economics,' Kate Raworth
+
+*Online Courses*
+* fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
+* deeplearning.ai intro to deep learning course
+* deeplearning.ai tensorflow in practice specialization
+* Statistics with Python, coursera, Univeristy of Michigan
+* Stanford CS231
+
+NOTE: I DON'T like Andrew Ng's 'Machine Learning' course on Coursera. 
+
+If you really wanna get started on deep learning I'd recommend starting by picking one practical course (like fast.ai/tensorflow in practice) and one theory course (like deeplearning.ai) and going back and forth depending on how you feel. Then if you want can move on to hardcore stuff like CS231 and the Deep Learning book by Goodfellow et. al.
+
