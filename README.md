@@ -19,9 +19,10 @@ Repository for School of Machines, Dataism course.
    *https://www.youtube.com/watch?v=ch2ubo7fC84 - News Story, Dazzle Club, London
    *https://www.youtube.com/watch?v=ufAlSgXIPB4 - Video About Clearview AI
    
-   
+ ---  
    
 **References and Resources**
+
 *Books*
 *'Weapons of Math Destruction,' Cathy O'Neil
 *'Donut Economics,' Kate Raworth
