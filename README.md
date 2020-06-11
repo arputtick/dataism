@@ -43,7 +43,7 @@ NOTE: I'm not a fun of Andrew Ng's 'Machine Learning' course on Coursera. It's g
 
 
 * Web-scraping:
-   * a work-in-progress guide to web scraping as an artistic and critical practice
+   * https://scrapism.lav.io/ - a work-in-progress guide to web scraping as an artistic and critical practice
 
 
 
