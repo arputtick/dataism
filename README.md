@@ -27,15 +27,24 @@ Repository for School of Machines, Dataism course.
 * 'Weapons of Math Destruction,' Cathy O'Neil
 * 'Donut Economics,' Kate Raworth
 
-*Online Courses*
-* fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
-* deeplearning.ai intro to deep learning course
-* deeplearning.ai tensorflow in practice specialization
-* Statistics with Python, coursera, Univeristy of Michigan
-* Stanford CS231
-* Google's Python Crash Course: https://developers.google.com/edu/python (just 1.1-1.3 to start)
+*Online*
+* Machine Learning:
+   * fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
+   * deeplearning.ai intro to deep learning course
+   * deeplearning.ai tensorflow in practice specialization
+   * Stanford CS231
+   
+NOTE: I'm not a fun of Andrew Ng's 'Machine Learning' course on Coursera. It's good for basic concepts, but there's not very much practical knowledge. It also doesn't use Python. His deep learning course is more useful.
+  
+* Stats/Python:
+   * Statistics with Python, coursera, Univeristy of Michigan
+   * Google's Python Crash Course: https://developers.google.com/edu/python (just 1.1-1.3 to start)
 
-NOTE: I DON'T like Andrew Ng's 'Machine Learning' course on Coursera. 
+
+* Web-scraping:
+   * a work-in-progress guide to web scraping as an artistic and critical practice
+
+
 
 **On self-teaching:**
 If you really wanna get started on deep learning I'd recommend picking one practical course (like fast.ai/tensorflow in practice) and one theory course (like deeplearning.ai) and going back and forth depending on how you feel. Then if you want can move on to hardcore stuff like CS231 and the Deep Learning book by Goodfellow et. al.
