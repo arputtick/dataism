@@ -1,7 +1,7 @@
 # dataism
 Repository for School of Machines, Dataism course.
 
-# Homework
+## Homework
 **Week 1:**
 * Use colab to open and work through Homework 1.ipynb
 * Go to https://policescorecard.org/
@@ -21,7 +21,7 @@ Repository for School of Machines, Dataism course.
    
  ---  
    
-**References and Resources**
+## References and Resources
 
 *Books*
 * 'Weapons of Math Destruction,' Cathy O'Neil
