@@ -27,8 +27,9 @@ Repository for School of Machines, Dataism course.
 * 'Weapons of Math Destruction,' Cathy O'Neil
 * 'Donut Economics,' Kate Raworth
 
-*Online*
+*Online Resources*
 * Machine Learning:
+   * Google AutoML - Tools for automatically building image recognition and language models using user-inputed datasets. Requires no ML knowledge (besides understanding what supervised learning is)
    * fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
    * deeplearning.ai intro to deep learning course
    * deeplearning.ai tensorflow in practice specialization
