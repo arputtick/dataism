@@ -19,6 +19,12 @@ Repository for School of Machines, Dataism course.
    * https://www.youtube.com/watch?v=ch2ubo7fC84 - News Story, Dazzle Club, London
    * https://www.youtube.com/watch?v=ufAlSgXIPB4 - Video About Clearview AI
    
+**Week 3:**
+* Work through Jupyter notebooks on Supervised Learning and the assignment on Linear Regression
+* Explore the USC Center for AI for Society projects: https://cais.usc.edu/projects
+   * In particular: Substance abuse/HIV prevention
+   * There are videos giving a brief overview of each project
+   
  ---  
    
 ## References and Resources
