@@ -40,8 +40,9 @@ Repository for School of Machines, Dataism course.
    * deeplearning.ai intro to deep learning course
    * deeplearning.ai tensorflow in practice specialization
    * Stanford CS231
+   * https://ml4a.github.io/ - Collection of educational resources devoted to Machine learning for artists (from Gene Kogan)
    
-NOTE: I'm not a fun of Andrew Ng's 'Machine Learning' course on Coursera. It's good for basic concepts, but there's not very much practical knowledge. It also doesn't use Python. His deep learning course is more useful.
+NOTE: I'm not a fan of Andrew Ng's 'Machine Learning' course on Coursera. It's good for basic concepts, but there's not very much practical knowledge. It also doesn't use Python. His deep learning course is more useful.
   
 * Stats/Python:
    * Statistics with Python, coursera, Univeristy of Michigan
@@ -50,6 +51,14 @@ NOTE: I'm not a fun of Andrew Ng's 'Machine Learning' course on Coursera. It's g
 
 * Web-scraping:
    * https://scrapism.lav.io/ - a work-in-progress guide to web scraping as an artistic and critical practice
+   
+* Social Network Analysis:
+   * Applied Social Network Analysis in Python, Coursera
+   * https://github.com/melaniewalsh/sample-social-network-datasets - practice datasets for social network analysis
+   * https://snap.stanford.edu/data/ - Stanford Large Network Dataset Collection
+Collection of social network data from large online networks (including FB, twitter, Google+)
+   * https://networkx.github.io/documentation/stable/ - Documentation for networkx python library
+   * https://www.kirenz.com/post/2019-08-13-network_analysis/ - A short intro to social network analysis with Python
 
 
 
