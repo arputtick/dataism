@@ -69,3 +69,6 @@ The same goes for stats. For me it makes such a difference to stumble through pr
 
 In my opinion, you need to know enough coding to understand if-statements and for-loops and a maybe a couple day primer (like the google one) on Python to get started.
 
+**Groups/Organizations/Tools:**
+* https://www.data4chan.ge/ - "London-based non-profit with a global network of creative talent collaborating at the intersection of data, design, technology and journalism on projects that forge real change and have lasting impact."
+* AINow
