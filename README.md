@@ -24,7 +24,11 @@ Repository for School of Machines, Dataism course.
 * Explore the USC Center for AI for Society projects: https://cais.usc.edu/projects
    * In particular: Substance abuse/HIV prevention
    * There are videos giving a brief overview of each project
-   
+ 
+ **Week 4:**
+ * Work on final project :)
+ * You can also work through the notebook on the Linear Threshold Model and
+ * The assignment on LTM and competing influences
  ---  
    
 ## References and Resources
