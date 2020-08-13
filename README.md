@@ -54,7 +54,7 @@ Repository for School of Machines, Dataism course.
    * Ted talk (https://www.youtube.com/watch?v=v9EKV2nSU8w&) that shows utterly bizarre videos suggested by YouTube's algorithms for children, by James Bridle
    * https://www.youtube.com/watch?v=OhCzX0iLnOc - TED talk by Jonelle Shane on AI Wierdness
    * Jaron Lanier on the idea of data dignity: https://www.youtube.com/watch?v=Np5ri-KktNs, a way to give us better ownership of our own data trails
-   
+   * Timnit Gebru on Stopping AI from Marginalizing Communities: https://youtu.be/PWCtoVt1CJM
    
    
    
