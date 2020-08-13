@@ -32,6 +32,7 @@ Repository for School of Machines, Dataism course.
  ---  
 ## Course Projects 
  * https://nextjournal.com/a/MGbrNv2gdJ5VPwYyDx7jz?token=Lt3etAWYajcJg3L3M4MXyi - David Schmudde, "Society crafts technology to reflect its own power structures. This paper will look at several examples in engineering, art, and bureaucracy."
+ * https://colab.research.google.com/drive/1OEKu2rmt8T5QbENv_SNxmgQUQz5pSrZt - Meka Shaiymkulova, Domestic Violence in Kyrgistan
  ---
 ## References and Resources
 
