@@ -30,7 +30,9 @@ Repository for School of Machines, Dataism course.
  * You can also work through the notebook on the Linear Threshold Model and
  * The assignment on LTM and competing influences
  ---  
-   
+## Course Projects 
+ * https://nextjournal.com/a/MGbrNv2gdJ5VPwYyDx7jz?token=Lt3etAWYajcJg3L3M4MXyi - David Schmudde, "Society crafts technology to reflect its own power structures. This paper will look at several examples in engineering, art, and bureaucracy."
+ ---
 ## References and Resources
 
 *Books*
@@ -38,6 +40,28 @@ Repository for School of Machines, Dataism course.
 * 'Donut Economics,' Kate Raworth
 
 *Online Resources*
+
+*  https://megapixels.cc/ - Activist artist Adam Harvey questioning privacy, ethics  of face recognition software.
+* https://carolinesinders.com/wp-content/uploads/2020/05/Feminist-Data-Set-Final-Draft-2020-0526.pdf - Feminist Data Set, questions every step of the machine learning pipeline from an intersectional feminist perspective.
+* https://ddosecrets.com/ - A wikileaks type site that publishes data deemed to be both of public interest and reliable.
+* https://www.fast.ai/2018/09/24/ai-ethics-resources/ - A list of AI ethics resources from Rachel Thomas, co-founder of fast.ai.
+* https://www.amnesty.org/en/latest/news/2020/06/usa-unlawful-use-of-force-by-police-at-black-lives-matter-protests/ - Amnesty International map of police violence during BLM protests
+* https://thelivinglib.org/ - Curated findings and actionable knowledge at the intersection of technology, innovation, and governance
+* https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334 - List of sites providing free datasets
+* https://informationisbeautiful.net/data/ - A collection of curated datasets
+* https://www.coursera.org/learn/computational-thinking-problem-solving - Course on Computational Thinking
+* https://www.youtube.com/watch?v=LqjP7O9SxOM&list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6 - TedX talk from Rachel Thomas about AI for everyone and why it's crucial
+* https://docs.google.com/spreadsheets/u/1/d/1YmZeSxpz52qT-10tkCjWOwOGkQqle7Wd1P7ZM1wMW0E/htmlview?pru=AAABcql6DI8*mIHYeMnoj9XWUp3Svb_KZA# - Here is a dataset of videos from anti-police brutality protests posted on twitter. Annotated with location and text summary.
+* https://www.washingtonpost.com/graphics/investigations/police-shootings-database/ - Washington Post Police Fatal Force Database
+* https://www.youtube.com/watch?v=OhCzX0iLnOc - TED talk by Jonelle Shane on AI Wierdness
+* Ted talk (https://www.youtube.com/watch?v=v9EKV2nSU8w&) that shows utterly bizarre videos suggested by YouTube's algorithms for children, by James Bridle
+* "Death in Custody" has released their research outcome on how many People of Colour and black people have died in police custody in Germany since the 1990's. This might be a decent challenge/project idea perhaps.https://deathincustody.noblogs.org/?fbclid=IwAR1I7GDUeL-lTPXI_zgmElN8Zz_wFwejKWZTGL9EN5F_h4G7ggEno_75XEs
+* Jaron Lanier on the idea of data dignity: https://www.youtube.com/watch?v=Np5ri-KktNs, a way to give us better ownership of our own data trails
+* Github page for face depixelizer algorithm - https://github.com/tg-bomze/Face-Depixelizer
+
+
+
+
 * Machine Learning:
    * Google AutoML - Tools for automatically building image recognition and language models using user-inputed datasets. Requires no ML knowledge (besides understanding what supervised learning is)
    * fast.ai online deep learning course (This is all about getting as fast as possible to the point where you can build a project and then filling in the theory afterward) 
@@ -45,8 +69,9 @@ Repository for School of Machines, Dataism course.
    * deeplearning.ai tensorflow in practice specialization
    * Stanford CS231
    * https://ml4a.github.io/ - Collection of educational resources devoted to Machine learning for artists (from Gene Kogan)
+   * https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info - Machine Learning for Artists and Musicians, MOOC by Rebecca Stiebrink
    
-NOTE: I'm not a fan of Andrew Ng's 'Machine Learning' course on Coursera. It's good for basic concepts, but there's not very much practical knowledge. It also doesn't use Python. His deep learning course is more useful.
+NOTE: I'm not a huge fan of Andrew Ng's 'Machine Learning' course on Coursera. It's good for basic concepts, but there's not very much practical knowledge. It also doesn't use Python. His deep learning course is more useful.
   
 * Stats/Python:
    * Statistics with Python, coursera, Univeristy of Michigan
