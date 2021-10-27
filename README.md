@@ -1,6 +1,8 @@
 # dataism
 Repository for School of Machines, Dataism course.
 
+https://schoolofma.org/dataism.html
+
 ## Homework
 **Week 1:**
 * Use colab to open and work through Homework 1.ipynb
